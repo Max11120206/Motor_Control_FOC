@@ -1,0 +1,18 @@
+# 编译产物
+build/
+out/
+*.exe
+*.o
+*.obj
+
+# VS Code 配置
+.vscode/
+
+# MATLAB 临时文件
+*.asv
+*.m~
+slprj/
+
+# 系统文件
+.DS_Store
+Thumbs.db
