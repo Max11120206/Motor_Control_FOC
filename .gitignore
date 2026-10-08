@@ -16,3 +16,10 @@ slprj/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# Simulink 临时文件
+slprj/
+*.slxc
+*.autosave
+*.slx.r*
+*.mdl.r*
