@@ -1,0 +1,10 @@
+^D:\VS CODE PROJECT\CURRENT_LIMIT\CMAKELISTS.TXT
+setlocal
+D:\Cmake_4.4.3\bin\cmake.exe "-SD:/VS Code Project/Current_Limit" "-BD:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64" --check-stamp-file "D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

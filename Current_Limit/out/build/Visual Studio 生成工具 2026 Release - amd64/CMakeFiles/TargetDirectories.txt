@@ -1,0 +1,9 @@
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/Limit_Current.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/Experimental.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/Nightly.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/Continuous.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/NightlyMemoryCheck.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/PACKAGE.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/RUN_TESTS.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/ALL_BUILD.dir
+D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/CMakeFiles/ZERO_CHECK.dir

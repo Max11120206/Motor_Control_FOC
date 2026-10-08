@@ -1,0 +1,10 @@
+^D:\VS CODE PROJECT\CURRENT_LIMIT\OUT\BUILD\VISUAL STUDIO 生成工具 2026 RELEASE - AMD64\CMAKEFILES\3D998A41A67348A7633624158FCBC329\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake_4.4.3\bin\cmake.exe "-SD:/VS Code Project/Current_Limit" "-BD:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/VS Code Project/Current_Limit/out/build/Visual Studio 生成工具 2026 Release - amd64/Limit_Current.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
